@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas
+openpyxl
+python-docx
+pypdf
+reportlab
+Pillow
+pymupdf
+msal
+requests
